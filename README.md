@@ -18,3 +18,7 @@ After search is completed, the city name is then displayed in the history of sea
 * Moment
 * OpenWeather API
 
+link to deployed site:
+
+https://hamidalicious.github.io/WeatherDashboard/
+
