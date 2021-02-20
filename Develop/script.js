@@ -1,3 +1,5 @@
+document.querySelector("#search-button").addEventListener("click", getSearchVal);
+
 function getSearchVal() {
     var searchValue = document.querySelector("#search-value").value;
     searchWeather(searchValue);
@@ -170,5 +172,4 @@ function getSearchVal() {
       });
   }
   
-  document.querySelector("#search-button").addEventListener("click", getSearchVal);
   
